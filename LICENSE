@@ -1,0 +1,11 @@
+Parts are abandon-ware C which have been converted.
+Parts are Public Domain which have been ported or converted from C.
+Parts are a Library.
+Parts allow you to build programs.
+
+So the Licensing is complex.
+You can loosen, but you cant tighten.
+
+Overall MIT is the best -and most compatible- License.
+FPC Dev team needs to GIT with the program. 
+I could own the entire project and make it proprietary WO consent- and there nothing they could do about it.

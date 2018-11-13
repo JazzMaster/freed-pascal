@@ -1,0 +1,20 @@
+License files are enclosed. However, due to existing licenses, one cannot simply re-license the code.
+Furthermore- FPC/Lazarus is not abandoned, its WIP.
+
+TO be as compliant as possible the code can only be relicensed IF the following conditions are met:
+
+1- you are aware of previous licenses and thier restrictions
+2- you do not further restrict freedoms of "GPL compliant code"
+3- you license in a similar fashion (MIT vs GPL)
+
+
+You may FORK. 
+You may rewrite it BACK INTO C/CPP/C sharp...PYTHON..etc.
+
+NO WARRANTY (IMPLIED, ASSUMED OR OTHERWISE).
+YOUR MILEAGE WILL VARY.
+
+You must cite original authors and sub authors, as appropriate(attribution rules).
+DO NOT CLAIM THIS CODE AS YOUR OWN (unless you wrote (or rewrote) it.
+
+
